@@ -1,9 +1,9 @@
-const Page = () => {
+
+
+const Page =  () => {
     return (
       <div>
-        <button>
-          Click me
-        </button>
+        Hello World
       </div>
     );
 }
